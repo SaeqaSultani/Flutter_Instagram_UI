@@ -20,8 +20,6 @@ List<Post> _post = [
     Post(userId: 2, id: 1, title: 'title', userLike: 3, like: 123, comments: 23),
     Post(userId: 4, id: 2, title: 'title', userLike: 4, like: 12, comments: 234),
     Post(userId: 2, id: 3, title: 'title', userLike: 5, like: 126, comments: 213),
-
-
 ];
 
 void main() {
